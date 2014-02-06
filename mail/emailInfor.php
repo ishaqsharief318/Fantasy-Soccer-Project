@@ -1,0 +1,11 @@
+<?php
+$emailInfor=array(
+	"serverName"=>"smtp.gmail.com",
+	"serverUser"=>"fantasyleaguegame@gmail.com",
+	"password"=>"b5611234567890",
+	"port"=>465,
+	"ssl"=>true,
+	"fromEmail"=>"fantasyleaguegame@gmail.com",
+	"fromName"=>"FantasyLeague",
+)
+?>

@@ -1,0 +1,15 @@
+.navbar-inner {
+  background-color: #000; /* background color will be black for all browsers */
+  background-image: none;
+  background-repeat: no-repeat;
+  height: 50px;
+  filter: none;
+}
+body {
+background-image: url("http://onesolarroof.com/wp-content/uploads/2012/01/Blue-background-white-lines-texture-background-451..jpg");
+} 
+.span3
+{
+background-color:#000;
+background-repeat: x;
+}

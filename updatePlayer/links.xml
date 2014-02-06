@@ -1,0 +1,2928 @@
+<?xml version="1.0" encoding ="utf8"?>
+<pages>
+<link>
+<name> Cech </name>
+<club> Chelsea </club>
+<points> 49 </points>
+</link>
+<link>
+<name> Hart </name>
+<club> Man City </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Lloris </name>
+<club> Tottenham </club>
+<points> 57 </points>
+</link>
+<link>
+<name> De Gea </name>
+<club> Man Utd </club>
+<points> 44 </points>
+</link>
+<link>
+<name> Howard </name>
+<club> Everton </club>
+<points> 77 </points>
+</link>
+<link>
+<name> Szczesny </name>
+<club> Arsenal </club>
+<points> 72 </points>
+</link>
+<link>
+<name> Mignolet </name>
+<club> Liverpool </club>
+<points> 62 </points>
+</link>
+<link>
+<name> Jääskeläinen </name>
+<club> West Ham </club>
+<points> 67 </points>
+</link>
+<link>
+<name> Reina </name>
+<club> Liverpool </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Begovic </name>
+<club> Stoke City </club>
+<points> 67 </points>
+</link>
+<link>
+<name> Krul </name>
+<club> Newcastle </club>
+<points> 59 </points>
+</link>
+<link>
+<name> Guzan </name>
+<club> Aston Villa </club>
+<points> 64 </points>
+</link>
+<link>
+<name> Pantilimon </name>
+<club> Man City </club>
+<points> 23 </points>
+</link>
+<link>
+<name> Vorm </name>
+<club> Swansea </club>
+<points> 42 </points>
+</link>
+<link>
+<name> Stekelenburg </name>
+<club> Fulham </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Ruddy </name>
+<club> Norwich </club>
+<points> 57 </points>
+</link>
+<link>
+<name> Boruc </name>
+<club> Southampton </club>
+<points> 58 </points>
+</link>
+<link>
+<name> Lindegaard </name>
+<club> Man Utd </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Butland </name>
+<club> Stoke City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Foster </name>
+<club> West Brom </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Viviano </name>
+<club> Arsenal </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Marshall </name>
+<club> Cardiff City </club>
+<points> 55 </points>
+</link>
+<link>
+<name> Schwarzer </name>
+<club> Chelsea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Speroni </name>
+<club> Crystal Palace </club>
+<points> 44 </points>
+</link>
+<link>
+<name> Amos </name>
+<club> Man Utd </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Westwood </name>
+<club> Sunderland </club>
+<points> 19 </points>
+</link>
+<link>
+<name> Myhill </name>
+<club> West Brom </club>
+<points> 41 </points>
+</link>
+<link>
+<name> Stockdale </name>
+<club> Fulham </club>
+<points> 20 </points>
+</link>
+<link>
+<name> McGregor </name>
+<club> Hull City </club>
+<points> 47 </points>
+</link>
+<link>
+<name> Wright </name>
+<club> Man City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Elliot </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Sørensen </name>
+<club> Stoke City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Tremmel </name>
+<club> Swansea </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Fabianski </name>
+<club> Arsenal </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Robles </name>
+<club> Everton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Jones </name>
+<club> Liverpool </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Bunn </name>
+<club> Norwich </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Gomes </name>
+<club> Tottenham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Friedel </name>
+<club> Tottenham </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Adrián </name>
+<club> West Ham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Mannone </name>
+<club> Sunderland </club>
+<points> 22 </points>
+</link>
+<link>
+<name> Given </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Steer </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Lewis </name>
+<club> Cardiff City </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Moore </name>
+<club> Cardiff City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Alexander </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Price </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Springthorpe </name>
+<club> Everton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Etheridge </name>
+<club> Fulham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Jakupovic </name>
+<club> Hull City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Harper </name>
+<club> Hull City </club>
+<points> 10 </points>
+</link>
+<link>
+<name> Alnwick </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Rudd </name>
+<club> Norwich </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Nash </name>
+<club> Norwich </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Gazzaniga </name>
+<club> Southampton </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Cropper </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Pickford </name>
+<club> Sunderland </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Zabret </name>
+<club> Swansea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Cornell </name>
+<club> Swansea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Camp </name>
+<club> West Brom </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Daniels </name>
+<club> West Brom </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Henderson </name>
+<club> West Ham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Kelvin Davis </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Baines </name>
+<club> Everton </club>
+<points> 64 </points>
+</link>
+<link>
+<name> Vertonghen </name>
+<club> Tottenham </club>
+<points> 64 </points>
+</link>
+<link>
+<name> Terry </name>
+<club> Chelsea </club>
+<points> 69 </points>
+</link>
+<link>
+<name> Ivanovic </name>
+<club> Chelsea </club>
+<points> 46 </points>
+</link>
+<link>
+<name> Evra </name>
+<club> Man Utd </club>
+<points> 56 </points>
+</link>
+<link>
+<name> Kompany </name>
+<club> Man City </club>
+<points> 12 </points>
+</link>
+<link>
+<name> Cole </name>
+<club> Chelsea </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Zabaleta </name>
+<club> Man City </club>
+<points> 63 </points>
+</link>
+<link>
+<name> Walker </name>
+<club> Tottenham </club>
+<points> 68 </points>
+</link>
+<link>
+<name> Mertesacker </name>
+<club> Arsenal </club>
+<points> 67 </points>
+</link>
+<link>
+<name> David Luiz </name>
+<club> Chelsea </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Jagielka </name>
+<club> Everton </club>
+<points> 78 </points>
+</link>
+<link>
+<name> Demichelis </name>
+<club> Man City </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Clichy </name>
+<club> Man City </club>
+<points> 28 </points>
+</link>
+<link>
+<name> Rafael </name>
+<club> Man Utd </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Coleman </name>
+<club> Everton </club>
+<points> 80 </points>
+</link>
+<link>
+<name> Jones </name>
+<club> Man Utd </club>
+<points> 23 </points>
+</link>
+<link>
+<name> Vidic </name>
+<club> Man Utd </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Lovren </name>
+<club> Southampton </club>
+<points> 65 </points>
+</link>
+<link>
+<name> Cahill </name>
+<club> Chelsea </club>
+<points> 43 </points>
+</link>
+<link>
+<name> Johnson </name>
+<club> Liverpool </club>
+<points> 43 </points>
+</link>
+<link>
+<name> Agger </name>
+<club> Liverpool </club>
+<points> 35 </points>
+</link>
+<link>
+<name> José Enrique </name>
+<club> Liverpool </club>
+<points> 35 </points>
+</link>
+<link>
+<name> McAuley </name>
+<club> West Brom </club>
+<points> 55 </points>
+</link>
+<link>
+<name> Koscielny </name>
+<club> Arsenal </club>
+<points> 54 </points>
+</link>
+<link>
+<name> Vermaelen </name>
+<club> Arsenal </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Sagna </name>
+<club> Arsenal </club>
+<points> 42 </points>
+</link>
+<link>
+<name> Gibbs </name>
+<club> Arsenal </club>
+<points> 48 </points>
+</link>
+<link>
+<name> Skrtel </name>
+<club> Liverpool </club>
+<points> 33 </points>
+</link>
+<link>
+<name> Shawcross </name>
+<club> Stoke City </club>
+<points> 54 </points>
+</link>
+<link>
+<name> Dawson </name>
+<club> Tottenham </club>
+<points> 55 </points>
+</link>
+<link>
+<name> Azpilicueta </name>
+<club> Chelsea </club>
+<points> 14 </points>
+</link>
+<link>
+<name> Kolarov </name>
+<club> Man City </club>
+<points> 40 </points>
+</link>
+<link>
+<name> Fonte </name>
+<club> Southampton </club>
+<points> 60 </points>
+</link>
+<link>
+<name> Huth </name>
+<club> Stoke City </club>
+<points> 41 </points>
+</link>
+<link>
+<name> Rangel </name>
+<club> Swansea </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Sakho </name>
+<club> Liverpool </club>
+<points> 28 </points>
+</link>
+<link>
+<name> Richards </name>
+<club> Man City </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Nastasic </name>
+<club> Man City </club>
+<points> 34 </points>
+</link>
+<link>
+<name> Monreal </name>
+<club> Arsenal </club>
+<points> 15 </points>
+</link>
+<link>
+<name> Caulker </name>
+<club> Cardiff City </club>
+<points> 60 </points>
+</link>
+<link>
+<name> Distin </name>
+<club> Everton </club>
+<points> 61 </points>
+</link>
+<link>
+<name> Smalling </name>
+<club> Man Utd </club>
+<points> 14 </points>
+</link>
+<link>
+<name> Ferdinand </name>
+<club> Man Utd </club>
+<points> 23 </points>
+</link>
+<link>
+<name> Chiriches </name>
+<club> Tottenham </club>
+<points> 33 </points>
+</link>
+<link>
+<name> Assou-Ekotto </name>
+<club> Tottenham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Ridgewell </name>
+<club> West Brom </club>
+<points> 50 </points>
+</link>
+<link>
+<name> O Brien </name>
+<club> West Ham </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Riether </name>
+<club> Fulham </club>
+<points> 44 </points>
+</link>
+<link>
+<name> Cissokho </name>
+<club> Liverpool </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Evans </name>
+<club> Man Utd </club>
+<points> 16 </points>
+</link>
+<link>
+<name> Ryan Taylor </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Santon </name>
+<club> Newcastle </club>
+<points> 47 </points>
+</link>
+<link>
+<name> Cameron </name>
+<club> Stoke City </club>
+<points> 46 </points>
+</link>
+<link>
+<name> Pieters </name>
+<club> Stoke City </club>
+<points> 45 </points>
+</link>
+<link>
+<name> Chico </name>
+<club> Swansea </club>
+<points> 44 </points>
+</link>
+<link>
+<name> Davies </name>
+<club> Swansea </club>
+<points> 45 </points>
+</link>
+<link>
+<name> Jones </name>
+<club> West Brom </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Kalas </name>
+<club> Chelsea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Lescott </name>
+<club> Man City </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Coloccini </name>
+<club> Newcastle </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Debuchy </name>
+<club> Newcastle </club>
+<points> 46 </points>
+</link>
+<link>
+<name> Olsson </name>
+<club> West Brom </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Reid </name>
+<club> West Ham </club>
+<points> 51 </points>
+</link>
+<link>
+<name> Demel </name>
+<club> West Ham </club>
+<points> 48 </points>
+</link>
+<link>
+<name> Hangeland </name>
+<club> Fulham </club>
+<points> 18 </points>
+</link>
+<link>
+<name> Touré </name>
+<club> Liverpool </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Shaw </name>
+<club> Southampton </club>
+<points> 50 </points>
+</link>
+<link>
+<name> Dossena </name>
+<club> Sunderland </club>
+<points> 5 </points>
+</link>
+<link>
+<name> O Shea </name>
+<club> Sunderland </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Williams </name>
+<club> Swansea </club>
+<points> 36 </points>
+</link>
+<link>
+<name> Martin </name>
+<club> Norwich </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Bassong </name>
+<club> Norwich </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Clyne </name>
+<club> Southampton </club>
+<points> 49 </points>
+</link>
+<link>
+<name> Muniesa </name>
+<club> Stoke City </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Tomkins </name>
+<club> West Ham </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Vlaar </name>
+<club> Aston Villa </club>
+<points> 46 </points>
+</link>
+<link>
+<name> Heitinga </name>
+<club> Everton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Davies </name>
+<club> Hull City </club>
+<points> 41 </points>
+</link>
+<link>
+<name> Büttner </name>
+<club> Man Utd </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Amat </name>
+<club> Swansea </club>
+<points> 8 </points>
+</link>
+<link>
+<name> Kaboul </name>
+<club> Tottenham </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Hayden </name>
+<club> Arsenal </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Clark </name>
+<club> Aston Villa </club>
+<points> 45 </points>
+</link>
+<link>
+<name> Théophile </name>
+<club> Cardiff City </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Taylor </name>
+<club> Cardiff City </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Bertrand </name>
+<club> Chelsea </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Zverotic </name>
+<club> Fulham </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Riise </name>
+<club> Fulham </club>
+<points> 9 </points>
+</link>
+<link>
+<name> Flanagan </name>
+<club> Liverpool </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Ilori </name>
+<club> Liverpool </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Rat </name>
+<club> West Ham </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Lowton </name>
+<club> Aston Villa </club>
+<points> 15 </points>
+</link>
+<link>
+<name> Luna </name>
+<club> Aston Villa </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Delaney </name>
+<club> Crystal Palace </club>
+<points> 40 </points>
+</link>
+<link>
+<name> Hibbert </name>
+<club> Everton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Figueroa </name>
+<club> Hull City </club>
+<points> 34 </points>
+</link>
+<link>
+<name> Coates </name>
+<club> Liverpool </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Williamson </name>
+<club> Newcastle </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Yanga-Mbiwa </name>
+<club> Newcastle </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Bardsley </name>
+<club> Sunderland </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Taylor </name>
+<club> Swansea </club>
+<points> 10 </points>
+</link>
+<link>
+<name> Lugano </name>
+<club> West Brom </club>
+<points> 2 </points>
+</link>
+<link>
+<name> McCarthy </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Alcaraz </name>
+<club> Everton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Senderos </name>
+<club> Fulham </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Hughes </name>
+<club> Fulham </club>
+<points> 18 </points>
+</link>
+<link>
+<name> Turner </name>
+<club> Norwich </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Fox </name>
+<club> Southampton </club>
+<points> 8 </points>
+</link>
+<link>
+<name> Wilson </name>
+<club> Stoke City </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Brown </name>
+<club> Sunderland </club>
+<points> 19 </points>
+</link>
+<link>
+<name> Monk </name>
+<club> Swansea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Collins </name>
+<club> West Ham </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Bennett </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Aké </name>
+<club> Chelsea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Gabbidon </name>
+<club> Crystal Palace </club>
+<points> 47 </points>
+</link>
+<link>
+<name> Stones </name>
+<club> Everton </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Amorebieta </name>
+<club> Fulham </club>
+<points> 10 </points>
+</link>
+<link>
+<name> Boyata </name>
+<club> Man City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Fabio </name>
+<club> Man Utd </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Steven Taylor </name>
+<club> Newcastle </club>
+<points> -4 </points>
+</link>
+<link>
+<name> Haidara </name>
+<club> Newcastle </club>
+<points> -1 </points>
+</link>
+<link>
+<name> Olsson </name>
+<club> Norwich </club>
+<points> 28 </points>
+</link>
+<link>
+<name> Wilkinson </name>
+<club> Stoke City </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Celustka </name>
+<club> Sunderland </club>
+<points> 19 </points>
+</link>
+<link>
+<name> Roberge </name>
+<club> Sunderland </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Tiendalli </name>
+<club> Swansea </club>
+<points> 9 </points>
+</link>
+<link>
+<name> Popov </name>
+<club> West Brom </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Jenkinson </name>
+<club> Arsenal </club>
+<points> 32 </points>
+</link>
+<link>
+<name> Okore </name>
+<club> Aston Villa </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Turner </name>
+<club> Cardiff City </club>
+<points> 36 </points>
+</link>
+<link>
+<name> Kelly </name>
+<club> Liverpool </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Garrido </name>
+<club> Norwich </club>
+<points> 10 </points>
+</link>
+<link>
+<name> Hooiveld </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Diakité </name>
+<club> Sunderland </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Naughton </name>
+<club> Tottenham </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Stevens </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Hudson </name>
+<club> Cardiff City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Connolly </name>
+<club> Cardiff City </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Nugent </name>
+<club> Cardiff City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Marange </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Hunt </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Mariappa </name>
+<club> Crystal Palace </club>
+<points> 15 </points>
+</link>
+<link>
+<name> Inniss </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Ward </name>
+<club> Crystal Palace </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Moxey </name>
+<club> Crystal Palace </club>
+<points> 34 </points>
+</link>
+<link>
+<name> Rosenior </name>
+<club> Hull City </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Coady </name>
+<club> Liverpool </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Rekik </name>
+<club> Man City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Varela </name>
+<club> Man Utd </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Dummett </name>
+<club> Newcastle </club>
+<points> 8 </points>
+</link>
+<link>
+<name> Yoshida </name>
+<club> Southampton </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Cuéllar </name>
+<club> Sunderland </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Alfei </name>
+<club> Swansea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Tate </name>
+<club> Swansea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Bartley </name>
+<club> Swansea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Fryers </name>
+<club> Tottenham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> McCartney </name>
+<club> West Ham </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Baker </name>
+<club> Aston Villa </club>
+<points> 20 </points>
+</link>
+<link>
+<name> John </name>
+<club> Cardiff City </club>
+<points> 8 </points>
+</link>
+<link>
+<name> Blake </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Parr </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Briggs </name>
+<club> Fulham </club>
+<points> 7 </points>
+</link>
+<link>
+<name> McShane </name>
+<club> Hull City </club>
+<points> 11 </points>
+</link>
+<link>
+<name> Dudgeon </name>
+<club> Hull City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Faye </name>
+<club> Hull City </club>
+<points> 14 </points>
+</link>
+<link>
+<name> Bruce </name>
+<club> Hull City </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Wisdom </name>
+<club> Liverpool </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Tavernier </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Ayala </name>
+<club> Norwich </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Ryan Bennett </name>
+<club> Norwich </club>
+<points> 17 </points>
+</link>
+<link>
+<name> Whittaker </name>
+<club> Norwich </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Chambers </name>
+<club> Southampton </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Stephens </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Richards </name>
+<club> Swansea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Dawson </name>
+<club> West Brom </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Potts </name>
+<club> West Ham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Spence </name>
+<club> West Ham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Brayford </name>
+<club> Cardiff City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> McNaughton </name>
+<club> Cardiff City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Ramage </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Duffy </name>
+<club> Everton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Chester </name>
+<club> Hull City </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Hobbs </name>
+<club> Hull City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Özil </name>
+<club> Arsenal </club>
+<points> 85 </points>
+</link>
+<link>
+<name> Hazard </name>
+<club> Chelsea </club>
+<points> 91 </points>
+</link>
+<link>
+<name> Cazorla </name>
+<club> Arsenal </club>
+<points> 37 </points>
+</link>
+<link>
+<name> Yaya Touré </name>
+<club> Man City </club>
+<points> 94 </points>
+</link>
+<link>
+<name> Mata </name>
+<club> Chelsea </club>
+<points> 24 </points>
+</link>
+<link>
+<name> Silva </name>
+<club> Man City </club>
+<points> 42 </points>
+</link>
+<link>
+<name> Walcott </name>
+<club> Arsenal </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Gerrard </name>
+<club> Liverpool </club>
+<points> 77 </points>
+</link>
+<link>
+<name> Oscar </name>
+<club> Chelsea </club>
+<points> 66 </points>
+</link>
+<link>
+<name> Coutinho </name>
+<club> Liverpool </club>
+<points> 29 </points>
+</link>
+<link>
+<name> Michu </name>
+<club> Swansea </club>
+<points> 39 </points>
+</link>
+<link>
+<name> Nasri </name>
+<club> Man City </club>
+<points> 67 </points>
+</link>
+<link>
+<name> Navas </name>
+<club> Man City </club>
+<points> 46 </points>
+</link>
+<link>
+<name> Lampard </name>
+<club> Chelsea </club>
+<points> 61 </points>
+</link>
+<link>
+<name> Fellaini </name>
+<club> Man Utd </club>
+<points> 21 </points>
+</link>
+<link>
+<name> Ramsey </name>
+<club> Arsenal </club>
+<points> 103 </points>
+</link>
+<link>
+<name> Lamela </name>
+<club> Tottenham </club>
+<points> 11 </points>
+</link>
+<link>
+<name> Willian </name>
+<club> Chelsea </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Fernandinho </name>
+<club> Man City </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Lennon </name>
+<club> Tottenham </club>
+<points> 20 </points>
+</link>
+<link>
+<name> Mirallas </name>
+<club> Everton </club>
+<points> 59 </points>
+</link>
+<link>
+<name> Kagawa </name>
+<club> Man Utd </club>
+<points> 10 </points>
+</link>
+<link>
+<name> Schürrle </name>
+<club> Chelsea </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Young </name>
+<club> Man Utd </club>
+<points> 9 </points>
+</link>
+<link>
+<name> Valencia </name>
+<club> Man Utd </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Eriksen </name>
+<club> Tottenham </club>
+<points> 17 </points>
+</link>
+<link>
+<name> Nani </name>
+<club> Man Utd </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Lallana </name>
+<club> Southampton </club>
+<points> 67 </points>
+</link>
+<link>
+<name> Arteta </name>
+<club> Arsenal </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Chamberlain </name>
+<club> Arsenal </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Chadli </name>
+<club> Tottenham </club>
+<points> 17 </points>
+</link>
+<link>
+<name> Paulinho </name>
+<club> Tottenham </club>
+<points> 58 </points>
+</link>
+<link>
+<name> Sessegnon </name>
+<club> West Brom </club>
+<points> 40 </points>
+</link>
+<link>
+<name> Nolan </name>
+<club> West Ham </club>
+<points> 47 </points>
+</link>
+<link>
+<name> Pienaar </name>
+<club> Everton </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Ben Arfa </name>
+<club> Newcastle </club>
+<points> 40 </points>
+</link>
+<link>
+<name> Cabaye </name>
+<club> Newcastle </club>
+<points> 57 </points>
+</link>
+<link>
+<name> Sigurdsson </name>
+<club> Tottenham </club>
+<points> 44 </points>
+</link>
+<link>
+<name> Ramires </name>
+<club> Chelsea </club>
+<points> 40 </points>
+</link>
+<link>
+<name> Johnson </name>
+<club> Sunderland </club>
+<points> 41 </points>
+</link>
+<link>
+<name> De Bruyne </name>
+<club> Chelsea </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Giaccherini </name>
+<club> Sunderland </club>
+<points> 34 </points>
+</link>
+<link>
+<name> Holtby </name>
+<club> Tottenham </club>
+<points> 22 </points>
+</link>
+<link>
+<name> Osman </name>
+<club> Everton </club>
+<points> 39 </points>
+</link>
+<link>
+<name> Wilshere </name>
+<club> Arsenal </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Walters </name>
+<club> Stoke City </club>
+<points> 32 </points>
+</link>
+<link>
+<name> Diaby </name>
+<club> Arsenal </club>
+<points> 0 </points>
+</link>
+<link>
+<name> N Zogbia </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Henderson </name>
+<club> Liverpool </club>
+<points> 40 </points>
+</link>
+<link>
+<name> Snodgrass </name>
+<club> Norwich </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Capoue </name>
+<club> Tottenham </club>
+<points> 8 </points>
+</link>
+<link>
+<name> Fer </name>
+<club> Norwich </club>
+<points> 59 </points>
+</link>
+<link>
+<name> Downing </name>
+<club> West Ham </club>
+<points> 32 </points>
+</link>
+<link>
+<name> De Guzmán </name>
+<club> Swansea </club>
+<points> 39 </points>
+</link>
+<link>
+<name> Hernández </name>
+<club> Swansea </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Sinclair </name>
+<club> West Brom </club>
+<points> 10 </points>
+</link>
+<link>
+<name> Duff </name>
+<club> Fulham </club>
+<points> 17 </points>
+</link>
+<link>
+<name> Carrick </name>
+<club> Man Utd </club>
+<points> 20 </points>
+</link>
+<link>
+<name> Cleverley </name>
+<club> Man Utd </club>
+<points> 18 </points>
+</link>
+<link>
+<name> Adam </name>
+<club> Stoke City </club>
+<points> 39 </points>
+</link>
+<link>
+<name> Shelvey </name>
+<club> Swansea </club>
+<points> 54 </points>
+</link>
+<link>
+<name> Townsend </name>
+<club> Tottenham </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Rosicky </name>
+<club> Arsenal </club>
+<points> 20 </points>
+</link>
+<link>
+<name> Zaha </name>
+<club> Man Utd </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Sissoko </name>
+<club> Newcastle </club>
+<points> 43 </points>
+</link>
+<link>
+<name> Larsson </name>
+<club> Sunderland </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Gardner </name>
+<club> Sunderland </club>
+<points> 23 </points>
+</link>
+<link>
+<name> Morrison </name>
+<club> West Brom </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Taarabt </name>
+<club> Fulham </club>
+<points> 12 </points>
+</link>
+<link>
+<name> Milner </name>
+<club> Man City </club>
+<points> 21 </points>
+</link>
+<link>
+<name> Ramírez </name>
+<club> Southampton </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Arnautovic </name>
+<club> Stoke City </club>
+<points> 32 </points>
+</link>
+<link>
+<name> Noble </name>
+<club> West Ham </club>
+<points> 41 </points>
+</link>
+<link>
+<name> van Ginkel </name>
+<club> Chelsea </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Barry </name>
+<club> Everton </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Moses </name>
+<club> Liverpool </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Whelan </name>
+<club> Stoke City </club>
+<points> 18 </points>
+</link>
+<link>
+<name> Dyer </name>
+<club> Swansea </club>
+<points> 43 </points>
+</link>
+<link>
+<name> Joe Cole </name>
+<club> West Ham </club>
+<points> 24 </points>
+</link>
+<link>
+<name> Gutiérrez </name>
+<club> Newcastle </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Pilkington </name>
+<club> Norwich </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Schneiderlin </name>
+<club> Southampton </club>
+<points> 33 </points>
+</link>
+<link>
+<name> Etherington </name>
+<club> Stoke City </club>
+<points> 14 </points>
+</link>
+<link>
+<name> Kightly </name>
+<club> Stoke City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Whittingham </name>
+<club> Cardiff City </club>
+<points> 50 </points>
+</link>
+<link>
+<name> Barkley </name>
+<club> Everton </club>
+<points> 47 </points>
+</link>
+<link>
+<name> Dejagah </name>
+<club> Fulham </club>
+<points> 16 </points>
+</link>
+<link>
+<name> Brady </name>
+<club> Hull City </club>
+<points> 46 </points>
+</link>
+<link>
+<name> Luis Alberto </name>
+<club> Liverpool </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Routledge </name>
+<club> Swansea </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Dembélé </name>
+<club> Tottenham </club>
+<points> 34 </points>
+</link>
+<link>
+<name> Sandro </name>
+<club> Tottenham </club>
+<points> 21 </points>
+</link>
+<link>
+<name> Amalfitano </name>
+<club> West Brom </club>
+<points> 44 </points>
+</link>
+<link>
+<name> Morrison </name>
+<club> West Ham </club>
+<points> 47 </points>
+</link>
+<link>
+<name> Jarvis </name>
+<club> West Ham </club>
+<points> 36 </points>
+</link>
+<link>
+<name> Zelalem </name>
+<club> Arsenal </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Gunnarsson </name>
+<club> Cardiff City </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Sidwell </name>
+<club> Fulham </club>
+<points> 52 </points>
+</link>
+<link>
+<name> Boyd </name>
+<club> Hull City </club>
+<points> 20 </points>
+</link>
+<link>
+<name> Suso </name>
+<club> Liverpool </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Rodwell </name>
+<club> Man City </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Giggs </name>
+<club> Man Utd </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Powell </name>
+<club> Man Utd </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Brunt </name>
+<club> West Brom </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Flamini </name>
+<club> Arsenal </club>
+<points> 18 </points>
+</link>
+<link>
+<name> Westwood </name>
+<club> Aston Villa </club>
+<points> 36 </points>
+</link>
+<link>
+<name> Puncheon </name>
+<club> Crystal Palace </club>
+<points> 29 </points>
+</link>
+<link>
+<name> Bolasie </name>
+<club> Crystal Palace </club>
+<points> 8 </points>
+</link>
+<link>
+<name> McCarthy </name>
+<club> Everton </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Huddlestone </name>
+<club> Hull City </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Elmohamady </name>
+<club> Hull City </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Sterling </name>
+<club> Liverpool </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Fletcher </name>
+<club> Man Utd </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Januzaj </name>
+<club> Man Utd </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Hoolahan </name>
+<club> Norwich </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Howson </name>
+<club> Norwich </club>
+<points> 45 </points>
+</link>
+<link>
+<name> Shea </name>
+<club> Stoke City </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Gera </name>
+<club> West Brom </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Bacuna </name>
+<club> Aston Villa </club>
+<points> 47 </points>
+</link>
+<link>
+<name> Essien </name>
+<club> Chelsea </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Kébé </name>
+<club> Crystal Palace </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Richardson </name>
+<club> Fulham </club>
+<points> 21 </points>
+</link>
+<link>
+<name> Shotton </name>
+<club> Stoke City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> N Zonzi </name>
+<club> Stoke City </club>
+<points> 46 </points>
+</link>
+<link>
+<name> Mavrias </name>
+<club> Sunderland </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Vaughan </name>
+<club> Sunderland </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Ki Sung-Yueng </name>
+<club> Sunderland </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Mulumbu </name>
+<club> West Brom </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Medel </name>
+<club> Cardiff City </club>
+<points> 32 </points>
+</link>
+<link>
+<name> Bellamy </name>
+<club> Cardiff City </club>
+<points> 21 </points>
+</link>
+<link>
+<name> Garvan </name>
+<club> Crystal Palace </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Gibson </name>
+<club> Everton </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Javi García </name>
+<club> Man City </club>
+<points> 12 </points>
+</link>
+<link>
+<name> Steven Davis </name>
+<club> Southampton </club>
+<points> 30 </points>
+</link>
+<link>
+<name> Assaidi </name>
+<club> Stoke City </club>
+<points> 15 </points>
+</link>
+<link>
+<name> Rose </name>
+<club> Tottenham </club>
+<points> 11 </points>
+</link>
+<link>
+<name> Taylor </name>
+<club> West Ham </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Diamé </name>
+<club> West Ham </club>
+<points> 42 </points>
+</link>
+<link>
+<name> McEachran </name>
+<club> Chelsea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Kacaniklic </name>
+<club> Fulham </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Koren </name>
+<club> Hull City </club>
+<points> 15 </points>
+</link>
+<link>
+<name> Redmond </name>
+<club> Norwich </club>
+<points> 43 </points>
+</link>
+<link>
+<name> Wanyama </name>
+<club> Southampton </club>
+<points> 29 </points>
+</link>
+<link>
+<name> Ireland </name>
+<club> Stoke City </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Collison </name>
+<club> West Ham </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Albrighton </name>
+<club> Aston Villa </club>
+<points> 2 </points>
+</link>
+<link>
+<name> El Ahmadi </name>
+<club> Aston Villa </club>
+<points> 44 </points>
+</link>
+<link>
+<name> Mutch </name>
+<club> Cardiff City </club>
+<points> 42 </points>
+</link>
+<link>
+<name> Mesca </name>
+<club> Fulham </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Christensen </name>
+<club> Fulham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Kasami </name>
+<club> Fulham </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Livermore </name>
+<club> Hull City </club>
+<points> 37 </points>
+</link>
+<link>
+<name> Allen </name>
+<club> Liverpool </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Anderson </name>
+<club> Man Utd </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Ferguson </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Abeid </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Surman </name>
+<club> Norwich </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Johnson </name>
+<club> Norwich </club>
+<points> 20 </points>
+</link>
+<link>
+<name> Murphy </name>
+<club> Norwich </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Reed </name>
+<club> Southampton </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Ba </name>
+<club> Sunderland </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Cattermole </name>
+<club> Sunderland </club>
+<points> 8 </points>
+</link>
+<link>
+<name> N Diaye </name>
+<club> Sunderland </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Thorne </name>
+<club> West Brom </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Dorrans </name>
+<club> West Brom </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Miyaichi </name>
+<club> Arsenal </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Cowie </name>
+<club> Cardiff City </club>
+<points> 29 </points>
+</link>
+<link>
+<name> Kim Bo-Kyung </name>
+<club> Cardiff City </club>
+<points> 23 </points>
+</link>
+<link>
+<name> O Keefe </name>
+<club> Crystal Palace </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Bannan </name>
+<club> Crystal Palace </club>
+<points> 34 </points>
+</link>
+<link>
+<name> Guédioura </name>
+<club> Crystal Palace </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Campaña </name>
+<club> Crystal Palace </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Oviedo </name>
+<club> Everton </club>
+<points> 28 </points>
+</link>
+<link>
+<name> Parker </name>
+<club> Fulham </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Razak </name>
+<club> Man City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Marveaux </name>
+<club> Newcastle </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Anita </name>
+<club> Newcastle </club>
+<points> 23 </points>
+</link>
+<link>
+<name> Carroll </name>
+<club> Tottenham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Dawkins </name>
+<club> Tottenham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Reid </name>
+<club> West Brom </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Yacob </name>
+<club> West Brom </club>
+<points> 33 </points>
+</link>
+<link>
+<name> Alou Diarra </name>
+<club> West Ham </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Herd </name>
+<club> Aston Villa </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Delph </name>
+<club> Aston Villa </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Gardner </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Sylla </name>
+<club> Aston Villa </club>
+<points> 10 </points>
+</link>
+<link>
+<name> Carruthers </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Conway </name>
+<club> Cardiff City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Noone </name>
+<club> Cardiff City </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Mikel </name>
+<club> Chelsea </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Piazon </name>
+<club> Chelsea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Grandin </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Dikgacoi </name>
+<club> Crystal Palace </club>
+<points> 21 </points>
+</link>
+<link>
+<name> Jedinak </name>
+<club> Crystal Palace </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Williams </name>
+<club> Crystal Palace </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Karagounis </name>
+<club> Fulham </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Quinn </name>
+<club> Hull City </club>
+<points> 9 </points>
+</link>
+<link>
+<name> Meyler </name>
+<club> Hull City </club>
+<points> 22 </points>
+</link>
+<link>
+<name> Lucas </name>
+<club> Liverpool </club>
+<points> 22 </points>
+</link>
+<link>
+<name> Obertan </name>
+<club> Newcastle </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Tiote </name>
+<club> Newcastle </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Gosling </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Bigirimana </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Vuckic </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Fox </name>
+<club> Norwich </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Elliott Bennett </name>
+<club> Norwich </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Tettey </name>
+<club> Norwich </club>
+<points> 12 </points>
+</link>
+<link>
+<name> Isgrove </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Guly </name>
+<club> Southampton </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Ward-Prowse </name>
+<club> Southampton </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Palacios </name>
+<club> Stoke City </club>
+<points> 8 </points>
+</link>
+<link>
+<name> Edu </name>
+<club> Stoke City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Knott </name>
+<club> Sunderland </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Britton </name>
+<club> Swansea </club>
+<points> 17 </points>
+</link>
+<link>
+<name> Lamah </name>
+<club> Swansea </club>
+<points> 9 </points>
+</link>
+<link>
+<name> Falque </name>
+<club> Tottenham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Brown </name>
+<club> West Brom </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Frimpong </name>
+<club> Arsenal </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Gnabry </name>
+<club> Arsenal </club>
+<points> 19 </points>
+</link>
+<link>
+<name> Tonev </name>
+<club> Aston Villa </club>
+<points> 16 </points>
+</link>
+<link>
+<name> Thomas </name>
+<club> Crystal Palace </club>
+<points> 8 </points>
+</link>
+<link>
+<name> Boateng </name>
+<club> Fulham </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Ibe </name>
+<club> Liverpool </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Lingard </name>
+<club> Man Utd </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Cork </name>
+<club> Southampton </club>
+<points> 7 </points>
+</link>
+<link>
+<name> Pennant </name>
+<club> Stoke City </club>
+<points> 12 </points>
+</link>
+<link>
+<name> Colback </name>
+<club> Sunderland </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Cabral </name>
+<club> Sunderland </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Álex Pozuelo </name>
+<club> Swansea </club>
+<points> 24 </points>
+</link>
+<link>
+<name> José Cañas </name>
+<club> Swansea </club>
+<points> 19 </points>
+</link>
+<link>
+<name> Johnson </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> van Persie </name>
+<club> Man Utd </club>
+<points> 66 </points>
+</link>
+<link>
+<name> Suárez </name>
+<club> Liverpool </club>
+<points> 114 </points>
+</link>
+<link>
+<name> Agüero </name>
+<club> Man City </club>
+<points> 112 </points>
+</link>
+<link>
+<name> Rooney </name>
+<club> Man Utd </club>
+<points> 91 </points>
+</link>
+<link>
+<name> Negredo </name>
+<club> Man City </club>
+<points> 63 </points>
+</link>
+<link>
+<name> Giroud </name>
+<club> Arsenal </club>
+<points> 80 </points>
+</link>
+<link>
+<name> Sturridge </name>
+<club> Liverpool </club>
+<points> 77 </points>
+</link>
+<link>
+<name> Benteke </name>
+<club> Aston Villa </club>
+<points> 41 </points>
+</link>
+<link>
+<name> Jovetic </name>
+<club> Man City </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Soldado </name>
+<club> Tottenham </club>
+<points> 57 </points>
+</link>
+<link>
+<name> Eto o </name>
+<club> Chelsea </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Lukaku </name>
+<club> Everton </club>
+<points> 73 </points>
+</link>
+<link>
+<name> Torres </name>
+<club> Chelsea </club>
+<points> 29 </points>
+</link>
+<link>
+<name> Remy </name>
+<club> Newcastle </club>
+<points> 76 </points>
+</link>
+<link>
+<name> Podolski </name>
+<club> Arsenal </club>
+<points> 14 </points>
+</link>
+<link>
+<name> Cissé </name>
+<club> Newcastle </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Defoe </name>
+<club> Tottenham </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Adebayor </name>
+<club> Tottenham </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Ba </name>
+<club> Chelsea </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Osvaldo </name>
+<club> Southampton </club>
+<points> 37 </points>
+</link>
+<link>
+<name> Fletcher </name>
+<club> Sunderland </club>
+<points> 29 </points>
+</link>
+<link>
+<name> Bony </name>
+<club> Swansea </club>
+<points> 39 </points>
+</link>
+<link>
+<name> Hernández </name>
+<club> Man Utd </club>
+<points> 17 </points>
+</link>
+<link>
+<name> Carroll </name>
+<club> West Ham </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Lambert </name>
+<club> Southampton </club>
+<points> 63 </points>
+</link>
+<link>
+<name> Jelavic </name>
+<club> Everton </club>
+<points> 17 </points>
+</link>
+<link>
+<name> Berbatov </name>
+<club> Fulham </club>
+<points> 41 </points>
+</link>
+<link>
+<name> Welbeck </name>
+<club> Man Utd </club>
+<points> 29 </points>
+</link>
+<link>
+<name> Dzeko </name>
+<club> Man City </club>
+<points> 34 </points>
+</link>
+<link>
+<name> Agbonlahor </name>
+<club> Aston Villa </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Bendtner </name>
+<club> Arsenal </club>
+<points> 10 </points>
+</link>
+<link>
+<name> v. Wolfswinkel </name>
+<club> Norwich </club>
+<points> 22 </points>
+</link>
+<link>
+<name> Kozák </name>
+<club> Aston Villa </club>
+<points> 31 </points>
+</link>
+<link>
+<name> Gouffran </name>
+<club> Newcastle </club>
+<points> 53 </points>
+</link>
+<link>
+<name> Altidore </name>
+<club> Sunderland </club>
+<points> 26 </points>
+</link>
+<link>
+<name> Koné </name>
+<club> Everton </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Aspas </name>
+<club> Liverpool </club>
+<points> 11 </points>
+</link>
+<link>
+<name> Borini </name>
+<club> Sunderland </club>
+<points> 19 </points>
+</link>
+<link>
+<name> Bent </name>
+<club> Fulham </club>
+<points> 29 </points>
+</link>
+<link>
+<name> Hooper </name>
+<club> Norwich </club>
+<points> 35 </points>
+</link>
+<link>
+<name> Long </name>
+<club> West Brom </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Weimann </name>
+<club> Aston Villa </club>
+<points> 40 </points>
+</link>
+<link>
+<name> Rodriguez </name>
+<club> Southampton </club>
+<points> 57 </points>
+</link>
+<link>
+<name> Odemwingie </name>
+<club> Cardiff City </club>
+<points> 21 </points>
+</link>
+<link>
+<name> Ruiz </name>
+<club> Fulham </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Crouch </name>
+<club> Stoke City </club>
+<points> 38 </points>
+</link>
+<link>
+<name> Álvaro </name>
+<club> Swansea </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Campbell </name>
+<club> Cardiff City </club>
+<points> 45 </points>
+</link>
+<link>
+<name> Deulofeu </name>
+<club> Everton </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Cornelius </name>
+<club> Cardiff City </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Murray </name>
+<club> Crystal Palace </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Elmander </name>
+<club> Norwich </club>
+<points> 24 </points>
+</link>
+<link>
+<name> Vydra </name>
+<club> West Brom </club>
+<points> 8 </points>
+</link>
+<link>
+<name> Anichebe </name>
+<club> West Brom </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Anelka </name>
+<club> West Brom </club>
+<points> 13 </points>
+</link>
+<link>
+<name> Vaz Te </name>
+<club> West Ham </club>
+<points> 18 </points>
+</link>
+<link>
+<name> Gayle </name>
+<club> Crystal Palace </club>
+<points> 28 </points>
+</link>
+<link>
+<name> Rodallega </name>
+<club> Fulham </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Graham </name>
+<club> Hull City </club>
+<points> 16 </points>
+</link>
+<link>
+<name> Guidetti </name>
+<club> Man City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Cole </name>
+<club> West Ham </club>
+<points> 11 </points>
+</link>
+<link>
+<name> Maiga </name>
+<club> West Ham </club>
+<points> 17 </points>
+</link>
+<link>
+<name> Helenius </name>
+<club> Aston Villa </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Sagbo </name>
+<club> Hull City </club>
+<points> 36 </points>
+</link>
+<link>
+<name> Mayuka </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Ji Dong-Won </name>
+<club> Sunderland </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Sanogo </name>
+<club> Arsenal </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Naismith </name>
+<club> Everton </club>
+<points> 18 </points>
+</link>
+<link>
+<name> Shola Ameobi </name>
+<club> Newcastle </club>
+<points> 18 </points>
+</link>
+<link>
+<name> Chamakh </name>
+<club> Crystal Palace </club>
+<points> 45 </points>
+</link>
+<link>
+<name> Jerome </name>
+<club> Crystal Palace </club>
+<points> 23 </points>
+</link>
+<link>
+<name> Aluko </name>
+<club> Hull City </club>
+<points> 27 </points>
+</link>
+<link>
+<name> Jones </name>
+<club> Stoke City </club>
+<points> 11 </points>
+</link>
+<link>
+<name> Wickham </name>
+<club> Sunderland </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Rosenberg </name>
+<club> West Brom </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Robinson </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Dembele </name>
+<club> Fulham </club>
+<points> 1 </points>
+</link>
+<link>
+<name> McLean </name>
+<club> Hull City </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Becchio </name>
+<club> Norwich </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Tadanari </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Gallagher </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> M. Karlsson </name>
+<club> Sunderland </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Berahino </name>
+<club> West Brom </club>
+<points> 25 </points>
+</link>
+<link>
+<name> Petric </name>
+<club> West Ham </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Gestede </name>
+<club> Cardiff City </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Maynard </name>
+<club> Cardiff City </club>
+<points> 6 </points>
+</link>
+<link>
+<name> Dobbie </name>
+<club> Crystal Palace </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Gedo </name>
+<club> Hull City </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Sammy Ameobi </name>
+<club> Newcastle </club>
+<points> 5 </points>
+</link>
+<link>
+<name> Campbell </name>
+<club> Newcastle </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Mitchell </name>
+<club> Sunderland </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Donnelly </name>
+<club> Swansea </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Kane </name>
+<club> Tottenham </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Lee </name>
+<club> West Ham </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Akpom </name>
+<club> Arsenal </club>
+<points> 1 </points>
+</link>
+<link>
+<name> Delfouneso </name>
+<club> Aston Villa </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Bowery </name>
+<club> Aston Villa </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Smith </name>
+<club> Cardiff City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Mason </name>
+<club> Cardiff City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Wilbraham </name>
+<club> Crystal Palace </club>
+<points> 3 </points>
+</link>
+<link>
+<name> Phillips </name>
+<club> Crystal Palace </club>
+<points> 4 </points>
+</link>
+<link>
+<name> Vellios </name>
+<club> Everton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Gueye </name>
+<club> Everton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Proschwitz </name>
+<club> Hull City </club>
+<points> 2 </points>
+</link>
+<link>
+<name> Fryatt </name>
+<club> Hull City </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Sharp </name>
+<club> Southampton </club>
+<points> 0 </points>
+</link>
+<link>
+<name> Mandron </name>
+<club> Sunderland </club>
+<points> 0 </points>
+</link>
+</pages>
